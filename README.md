@@ -111,41 +111,6 @@ A web-based attendance management tool designed to help students track their att
 
 ---
 
-### 🛡️ Safari — Privacy-First Mutual Safety Relay
-
-A privacy-focused platform designed to connect compatible solo travelers for temporary mutual safety check-ins.
-
-**Features:**
-
-- 🤝 Temporary safety-buddy matching
-- 🔒 Privacy-first approach
-- 🚫 No dating or social feed
-- 👤 No permanent stranger connections
-- ⏳ Automatically dissolves after the trip
-
-**Tech:** Web Development • JavaScript • Backend
-
-🔗 [View Safari Project](YOUR_SAFARI_LINK)
-
----
-
-### 📱 Student Android Application
-
-A student-focused Android application designed to provide useful functionality through a simple and accessible mobile experience.
-
-**Features:**
-
-- 📱 Android application
-- 🔥 Firebase integration
-- 👨‍🎓 Student-focused functionality
-- ⚡ Simple and user-friendly interface
-
-**Tech:** Java • Android • Firebase
-
-🔗 [View Android Project](YOUR_ANDROID_LINK)
-
----
-
 ### 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my projects, technical skills, certifications, and development journey.
